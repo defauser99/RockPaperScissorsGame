@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Rock Paper Scissors</string>
+    <string name="rock_title">Rock</string>
+    <string name="paper_title">Paper</string>
+    <string name="scissors_title">Scissors</string>
+    <string name="player1">Player 1</string>
+    <string name="computer">Computer</string>
+    <string name="versus">VS</string>
+    <string name="game">Game</string>
+    <string name="draw">Draw!</string>
+    <string name="win">Win!</string>
+    <string name="lose">Lose!</string>
+
+<!--Set Content Description-->
+    <string name="player_rock">rock</string>
+    <string name="player_paper">paper</string>
+    <string name="player_scissors">scissors</string>
+    <string name="computer_rock">rock</string>
+    <string name="computer_paper">paper</string>
+    <string name="computer_scissors">scissors</string>
+    <string name="click_to_refresh">Click to refresh!</string>
+</resources>
